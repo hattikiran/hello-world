@@ -1,0 +1,4 @@
+C:/Users/khatti/STM32CubeIDE/workspace_1.8.0/esp-hosted-eval/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_session_create_ext.c:88:13:_find_cipher	32	static
+C:/Users/khatti/STM32CubeIDE/workspace_1.8.0/esp-hosted-eval/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_session_create_ext.c:113:13:_map_tls_ciphersuites	80	static
+C:/Users/khatti/STM32CubeIDE/workspace_1.8.0/esp-hosted-eval/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_session_create_ext.c:356:13:_map_x509_ciphersuites	80	static
+C:/Users/khatti/STM32CubeIDE/workspace_1.8.0/esp-hosted-eval/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_session_create_ext.c:461:6:_nx_secure_tls_session_create_ext	136	static

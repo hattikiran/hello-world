@@ -1,0 +1,2 @@
+C:/Users/khatti/STM32CubeIDE/workspace_1.8.0/esp-hosted-eval/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509_expiration_check.c:77:6:_nx_secure_x509_expiration_check	32	static
+C:/Users/khatti/STM32CubeIDE/workspace_1.8.0/esp-hosted-eval/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509_expiration_check.c:170:13:_nx_secure_x509_asn1_time_to_unix_convert	56	static

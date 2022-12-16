@@ -1,0 +1,6 @@
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/common/common.c:41:10:hton_short	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/common/common.c:57:10:hton_long	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/common/common.c:81:6:print_hex_dump	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/common/common.c:108:5:min	16	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/common/common.c:117:6:hard_delay	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/common/common.c:130:5:get_num_from_string	32	static

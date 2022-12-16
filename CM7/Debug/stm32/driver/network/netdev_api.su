@@ -1,0 +1,6 @@
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_api.c:25:5:network_init	8	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_api.c:38:25:network_open	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_api.c:78:15:network_read	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_api.c:111:5:network_write	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_api.c:136:5:network_close	16	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_api.c:150:5:network_deinit	4	static

@@ -1,0 +1,5 @@
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/common/util.c:36:5:ipv4_addr_aton	56	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/common/util.c:131:8:ipv4_addr_ntoa	48	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/common/util.c:173:11:convert_mac_to_bytes	64	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/common/util.c:211:9:is_same_buff	40	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/common/util.c:245:11:get_ipaddr_from_str	24	static

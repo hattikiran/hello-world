@@ -1,0 +1,10 @@
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_stub.c:33:6:netdev_init	16	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_stub.c:47:5:netdev_open	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_stub.c:71:6:netdev_close	16	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_stub.c:92:17:netdev_get	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_stub.c:120:17:netdev_alloc	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_stub.c:154:6:netdev_free	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_stub.c:181:8:netdev_get_priv	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_stub.c:199:5:netdev_register	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_stub.c:222:5:netdev_unregister	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/network/netdev_stub.c:243:5:netdev_rx	24	static

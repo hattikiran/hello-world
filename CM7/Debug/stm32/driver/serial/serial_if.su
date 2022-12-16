@@ -1,0 +1,8 @@
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/serial/serial_if.c:67:12:serial_open	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/serial/serial_if.c:94:26:get_serial_handle	16	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/serial/serial_if.c:110:12:serial_close	16	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/serial/serial_if.c:135:18:serial_read	40	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/serial/serial_if.c:189:12:serial_write	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/serial/serial_if.c:211:11:serial_rx_handler	40	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/serial/serial_if.c:249:13:serial_cleanup	16	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/driver/serial/serial_if.c:262:19:serial_init	32	static

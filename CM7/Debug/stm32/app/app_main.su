@@ -1,0 +1,11 @@
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/app/app_main.c:72:6:reset_slave	32	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/app/app_main.c:103:13:control_path_event_handler	16	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/app/app_main.c:141:6:spi_driver_event_handler	16	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/app/app_main.c:164:6:MX_THREADX_Init	48	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/app/app_main.c:192:1:__io_putchar	16	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/app/app_main.c:208:6:vApplicationGetIdleTaskMemory	24	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/app/app_main.c:238:13:sta_rx_callback	56	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/app/app_main.c:289:13:ap_rx_callback	56	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/app/app_main.c:341:13:init_sta	8	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/app/app_main.c:352:13:init_ap	8	static
+C:/Users/khatti/Documents/esp-hosted-h7/host/stm32/app/app_main.c:363:13:arping_task	56	static

@@ -1,0 +1,6 @@
+C:/Users/khatti/STM32CubeIDE/workspace_1.8.0/esp-hosted-eval/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_send_clienthello_extensions.c:136:6:_nx_secure_tls_send_clienthello_extensions	48	static
+C:/Users/khatti/STM32CubeIDE/workspace_1.8.0/esp-hosted-eval/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_send_clienthello_extensions.c:312:13:_nx_secure_tls_send_clienthello_sig_extension	56	static
+C:/Users/khatti/STM32CubeIDE/workspace_1.8.0/esp-hosted-eval/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_send_clienthello_extensions.c:395:6:_nx_secure_tls_get_signature_algorithm	32	static
+C:/Users/khatti/STM32CubeIDE/workspace_1.8.0/esp-hosted-eval/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_send_clienthello_extensions.c:1318:13:_nx_secure_tls_send_clienthello_sni_extension	40	static
+C:/Users/khatti/STM32CubeIDE/workspace_1.8.0/esp-hosted-eval/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_send_clienthello_extensions.c:1472:13:_nx_secure_tls_send_clienthello_sec_reneg_extension	40	static
+C:/Users/khatti/STM32CubeIDE/workspace_1.8.0/esp-hosted-eval/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_send_clienthello_extensions.c:1645:13:_nx_secure_tls_send_clienthello_sec_spf_extensions	48	static
